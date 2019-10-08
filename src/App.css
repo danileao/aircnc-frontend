@@ -92,3 +92,18 @@ button {
   color: #999;
   font-size: 12px;
 }
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(97, 93, 93);
+  color: white;
+  text-align: center;
+}
+
+.footer p {
+  margin: 30px;
+  font-size: 20px;
+}

@@ -20,6 +20,10 @@ function App() {
           
         </div>
       </div>
+
+      <footer className="footer">
+      <p>Desenvolvido por  © <strong>Daniele Leão Evangelista</strong></p>
+      </footer>
     </div>
   );
 }
